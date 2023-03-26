@@ -1,4 +1,3 @@
-# id_83923629
 import sys
 n = int(sys.stdin.readline())
 
